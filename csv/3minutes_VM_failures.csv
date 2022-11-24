@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,/integral/0.0/3.14,RemoteDisconnected('Remote end closed connection without response'),5
+GET,/integral/0.0/3.14,"ConnectionRefusedError(111, 'Connection refused')",8
